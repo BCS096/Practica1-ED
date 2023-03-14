@@ -1,0 +1,21 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\tomeu\Desktop\Practica-Bartomeu Capo\practica_1.gpr
+20200311081248
+[BOUND OBJECT FILES]
+C:\Users\tomeu\Desktop\Practica-Bartomeu Capo\obj\dpila.o
+C:\Users\tomeu\Desktop\Practica-Bartomeu Capo\obj\dcola.o
+C:\Users\tomeu\Desktop\Practica-Bartomeu Capo\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\tomeu\Desktop\Practica-Bartomeu Capo\obj\
+-LC:\Users\tomeu\Desktop\Practica-Bartomeu Capo\obj\
+-LC:/gnat/2019/lib/gcc/x86_64-pc-mingw32/8.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2019/lib/gcc/x86_64-pc-mingw32/8.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

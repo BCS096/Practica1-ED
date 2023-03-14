@@ -1,0 +1,88 @@
+V "GNAT Lib v2019"
+M P W=b
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_ALLOCATORS
+RV NO_EXCEPTION_HANDLERS
+RV NO_EXCEPTIONS
+RV NO_IO
+RV NO_IMPLICIT_CONDITIONALS
+RV NO_LOCAL_ALLOCATORS
+RV NO_STANDARD_ALLOCATORS_AFTER_ELABORATION
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_DEFAULT_INITIALIZATION
+RV NO_IMPLEMENTATION_PRAGMAS
+RV SPARK_05
+
+U main%b		main.adb		1a993f1e NE OO SU
+W ada%s			ada.ads			ada.ali
+Z ada.exceptions%s	a-except.adb		a-except.ali
+W ada.integer_text_io%s	a-inteio.ads		a-inteio.ali
+Z ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W dcola%s		dcola.adb		dcola.ali
+Z dpila%s		dpila.adb		dpila.ali
+Z system%s		system.ads		system.ali
+Z system.exception_table%s  s-exctab.adb	s-exctab.ali
+Z system.standard_library%s  s-stalib.adb	s-stalib.ali
+
+D ada.ads		20190518041256 76789da1 ada%s
+D a-except.ads		20190518041256 291912d5 ada.exceptions%s
+D a-inteio.ads		20190518041258 f64b89a4 ada.integer_text_io%s
+D a-ioexce.ads		20190518041256 e4a01f64 ada.io_exceptions%s
+D a-stream.ads		20190518041256 119b8fb3 ada.streams%s
+D a-tags.ads		20190518041258 491b781d ada.tags%s
+D a-textio.ads		20190518041258 aef4d56d ada.text_io%s
+D a-tiinio.ads		20190518041256 390edddb ada.text_io.integer_io%s
+D a-unccon.ads		20190518041256 0e9b276f ada.unchecked_conversion%s
+D dcola.ads		20200316133522 1dd5e6d0 dcola%s
+D dcola.adb		20200319160654 984a8ea7 dcola%b
+D dpila.ads		20200316125136 9903c9c7 dpila%s
+D dpila.adb		20200316125200 d0e0098d dpila%b
+D interfac.ads		20190518041256 5ab55268 interfaces%s
+D i-cstrea.ads		20190518041256 e53d8b8e interfaces.c_streams%s
+D main.adb		20200321205128 5ff38507 main%b
+D system.ads		20190518041258 32a08138 system%s
+D s-crtl.ads		20190518041256 0ebbdb71 system.crtl%s
+D s-exctab.ads		20190518041256 54135002 system.exception_table%s
+D s-ficobl.ads		20190518041258 078245e4 system.file_control_block%s
+D s-parame.ads		20190518041258 48ec542b system.parameters%s
+D s-secsta.ads		20190518041258 20bbe636 system.secondary_stack%s
+D s-soflin.ads		20190518041256 a7318a92 system.soft_links%s
+D s-stache.ads		20190518041258 a37c21ec system.stack_checking%s
+D s-stalib.ads		20190518041258 09bd3940 system.standard_library%s
+D s-stoele.ads		20190518041258 2dc34a04 system.storage_elements%s
+D s-traent.ads		20190518041256 005bf670 system.traceback_entries%s
+D s-unstyp.ads		20190518041256 34867c83 system.unsigned_types%s
+D s-wchcon.ads		20190518041256 1b7d22d2 system.wch_con%s
+G a e
+G c Z b b [main standard 6 11 none]
+G r i none [main standard 6 11 none] [dpila standard 3 9 none]
+G r i none [main standard 6 11 none] [dcola standard 5 9 none]
+X 1 ada.ads
+16K9*Ada 20e8 16|2r6 3r5 4r6 5r5
+X 3 a-inteio.ads
+18K13*Integer_Text_IO[8|46] 16|4w10 5r9
+X 7 a-textio.ads
+57K13*Text_IO 727e16 16|2w10 3r9
+381U14*Get 16|13s4 16s7
+392U14*Put 16|23s10
+508U14*Put_Line 16|12s4 20s7 21s7 27s7 29s4
+X 10 dcola.ads
+4+9 item 16|7r31
+5k9*dcola 23e10 16|1w6 7r25
+6R9 cola 16|9r8[7]
+11U14 poner 16|15s7[7]
+12U14 borrar_primero 16|24s10[7]
+13V13 coger_primero{character} 16|23s14[7]
+14V13 esta_vacia{boolean} 16|18s11[7] 22s17[7]
+X 16 main.adb
+6U11*Main 6b11 30l5 30t9
+7K12 mcola[10|5] 8r8
+9r4 cua{10|6R9[7]} 15m13 15r13 18r22 22r28 23r28 24m25 24r25
+10e4 caracter{character} 13m8 14r10 15r17 16m11
+

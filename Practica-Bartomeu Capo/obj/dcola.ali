@@ -1,0 +1,63 @@
+V "GNAT Lib v2019"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_EXCEPTION_HANDLERS
+RV NO_EXCEPTIONS
+RV NO_IMPLEMENTATION_PRAGMAS
+RV SPARK_05
+
+U dcola%b		dcola.adb		859f6877 NE OO PK GE IL
+
+U dcola%s		dcola.ads		84d62f17 BN EE NE OO PK GE IL
+W dpila%s		dpila.adb		dpila.ali
+
+D dcola.ads		20200316133522 1dd5e6d0 dcola%s
+D dcola.adb		20200319160654 984a8ea7 dcola%b
+D dpila.ads		20200316125136 9903c9c7 dpila%s
+D dpila.adb		20200316125200 d0e0098d dpila%b
+D system.ads		20190518041258 32a08138 system%s
+G a e
+G c Z s b [dcola standard 5 9 none]
+X 1 dcola.ads
+4+9 item 11r44 13r48 17r39 2|11r44 38r48
+5k9*dcola 4z9 17E12 23l5 23e10 2|1b14 53l5 53t10
+6R9*cola 10r30 11r32 12r40 13r35 14r31 19c9 22e14 2|4r30 11r32 29r40 38r35
+. 47r31
+7X4*mal_uso 2|34r38 43r38
+8X4*espacio_desbordado 2|25r38
+10U14*cvacia 10<22 2|4b14 8l8 8t14
+10r22 qu{6R9} 2|4b22 5m26 5r26
+11U14*poner 11=21 11>38 2|11b14 26l8 26t13
+11r21 qu{6R9} 2|11b21 12m29 12r29 13m34 13r34
+11*38 x{4+9} 2|11b38 19r22
+12U14*borrar_primero 12=29 2|29b14 35l8 35t22
+12r29 qu{6R9} 2|29b29 30m26 30r26
+13V13*coger_primero{4+9} 13>28 2|38b13 44l8 44t21
+13r28 qu{6R9} 2|38b28 39r26
+14V13*esta_vacia{boolean} 14>24 2|47b13 51l8 51t18
+14r24 qu{6R9} 2|47b24 48r26
+17K12 mpila[3|3] 18r8
+20r7 p{3|4R9[17]} 2|5m29 13m37 30m29 39m29 48m29
+21r7 q{3|4R9[17]} 2|12m32
+X 2 dcola.adb
+5r7 spila{3|4R9[1|17]} 7r14
+12r7 pilaAux{3|4R9[1|17]} 16r17 19r14 20r27 21r35 22r20
+13r7 pilaConsulta{3|4R9[1|17]} 15r27 16r30 17r20 21r17
+30r7 spila{3|4R9[1|17]} 32r17
+39r7 spila{3|4R9[1|17]} 41r19
+48r7 spila{3|4R9[1|17]} 50r24
+X 3 dpila.ads
+2+9 elem 1|17r31
+3k9*dpila 1|1w6 17r25 3|23e10
+4R9 pila 1|20r9[17] 21r9[17] 2|5r13[1|17] 12r16[1|17] 13r21[1|17] 30r13[1|17]
+. 39r13[1|17] 48r13[1|17]
+7U14 pvacia 2|7s7[1|17]
+8U14 empila 2|16s10[1|17] 19s7[1|17] 21s10[1|17]
+9U14 desempila 2|17s10[1|17] 22s10[1|17] 32s7[1|17]
+10V13 cima{1|4+9} 2|16s25[1|17] 21s30[1|17] 41s14[1|17]
+11V13 estavacia{boolean} 2|15s17[1|17] 20s17[1|17] 50s14[1|17]
+

@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\tomeu\Desktop\Practica-Bartomeu Capo\practica_1.gpr</vfs_project>
+      <vfs_file>C:\Users\tomeu\Desktop\Practica-Bartomeu Capo\src\dpila.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 25" >
+      <vfs_project>C:\Users\tomeu\Desktop\Practica-Bartomeu Capo\practica_1.gpr</vfs_project>
+      <vfs_file>C:\Users\tomeu\Desktop\Practica-Bartomeu Capo\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\tomeu\Desktop\Practica-Bartomeu Capo\practica_1.gpr</vfs_project>
+      <vfs_file>C:\Users\tomeu\Desktop\Practica-Bartomeu Capo\src\dcola.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\Users\tomeu\Desktop\Practica-Bartomeu Capo\practica_1.gpr</vfs_project>
+      <vfs_file>C:\Users\tomeu\Desktop\Practica-Bartomeu Capo\src\dcola.ads</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >C:\Users\tomeu\Desktop\Practica-Bartomeu Capo\Practica-Bartomeu Capo\Practica-Bartomeu Capo\practica_1.gpr</vfs_file>
+    <file_marker column=" 43" line=" 7">
+      <vfs_project  />
+      <vfs_file >C:\Users\tomeu\Desktop\Proyectos\Proyectos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 37">
+      <vfs_project  />
+      <vfs_file >C:\Users\tomeu\Desktop\Proyectos\Proyectos\src\dpila.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 24">
+      <vfs_project  />
+      <vfs_file >C:\Users\tomeu\Desktop\Proyectos\Proyectos\src\dpila.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 54">
+      <vfs_project  />
+      <vfs_file >C:\Users\tomeu\Desktop\Proyectos\Proyectos\src\dcola.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project >C:\Users\tomeu\Desktop\Practica-Bartomeu Capo\Practica-Bartomeu Capo\Practica-Bartomeu Capo\practica_1.gpr</vfs_project>
+      <vfs_file >C:\Users\tomeu\Desktop\Practica-Bartomeu Capo\Practica-Bartomeu Capo\Practica-Bartomeu Capo\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >C:\Users\Bartomeu\Desktop\Practica-Bartomeu Capo\Practica-Bartomeu Capo\practica_1.gpr</vfs_file>
+    <file_marker column=" 39" line=" 7">
+      <vfs_project >C:\Users\Bartomeu\Desktop\Practica-Bartomeu Capo\Practica-Bartomeu Capo\practica_1.gpr</vfs_project>
+      <vfs_file >C:\Users\Bartomeu\Desktop\Practica-Bartomeu Capo\Practica-Bartomeu Capo\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 14">
+      <vfs_project >C:\Users\Bartomeu\Desktop\Practica-Bartomeu Capo\Practica-Bartomeu Capo\practica_1.gpr</vfs_project>
+      <vfs_file >C:\Users\Bartomeu\Desktop\Practica-Bartomeu Capo\Practica-Bartomeu Capo\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\Bartomeu\Desktop\Practica-Bartomeu Capo\Practica-Bartomeu Capo\practica_1.gpr</vfs_project>
+      <vfs_file >C:\Users\Bartomeu\Desktop\Practica-Bartomeu Capo\Practica-Bartomeu Capo\src\dcola.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 25">
+      <vfs_project >C:\Users\Bartomeu\Desktop\Practica-Bartomeu Capo\Practica-Bartomeu Capo\practica_1.gpr</vfs_project>
+      <vfs_file >C:\Users\Bartomeu\Desktop\Practica-Bartomeu Capo\Practica-Bartomeu Capo\src\dcola.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\Bartomeu\Desktop\Practica-Bartomeu Capo\Practica-Bartomeu Capo\practica_1.gpr</vfs_project>
+      <vfs_file >C:\Users\Bartomeu\Desktop\Practica-Bartomeu Capo\Practica-Bartomeu Capo\src\dpila.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\Bartomeu\Desktop\Practica-Bartomeu Capo\Practica-Bartomeu Capo\practica_1.gpr</vfs_project>
+      <vfs_file >C:\Users\Bartomeu\Desktop\Practica-Bartomeu Capo\Practica-Bartomeu Capo\src\dpila.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 48" line=" 7">
+      <vfs_project >C:\Users\Bartomeu\Desktop\Practica-Bartomeu Capo\Practica-Bartomeu Capo\practica_1.gpr</vfs_project>
+      <vfs_file >C:\Users\Bartomeu\Desktop\Practica-Bartomeu Capo\Practica-Bartomeu Capo\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\Bartomeu\Desktop\Practica-Bartomeu Capo\Practica-Bartomeu Capo\practica_1.gpr</vfs_project>
+      <vfs_file >C:\Users\Bartomeu\Desktop\Practica-Bartomeu Capo\Practica-Bartomeu Capo\src\dcola.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\Bartomeu\Desktop\Practica-Bartomeu Capo\Practica-Bartomeu Capo\practica_1.gpr</vfs_project>
+      <vfs_file >C:\Users\Bartomeu\Desktop\Practica-Bartomeu Capo\Practica-Bartomeu Capo\src\dcola.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project >C:\Users\Bartomeu\Desktop\Practica-Bartomeu Capo\Practica-Bartomeu Capo\practica_1.gpr</vfs_project>
+      <vfs_file >C:\Users\Bartomeu\Desktop\Practica-Bartomeu Capo\Practica-Bartomeu Capo\src\dcola.ads</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >C:\Users\Bartomeu\Desktop\hola\hola\practica_1.gpr</vfs_file>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project >C:\Users\Bartomeu\Desktop\hola\hola\practica_1.gpr</vfs_project>
+      <vfs_file >C:\Users\Bartomeu\Desktop\hola\hola\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >C:\Users\tomeu\Desktop\Proyectos\Proyectos\practica_1.gpr</vfs_file>
+    <file_marker column=" 1" line=" 31">
+      <vfs_project >C:\Users\tomeu\Desktop\Proyectos\Proyectos\practica_1.gpr</vfs_project>
+      <vfs_file >C:\Users\tomeu\Desktop\Proyectos\Proyectos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 37">
+      <vfs_project >C:\Users\tomeu\Desktop\Proyectos\Proyectos\practica_1.gpr</vfs_project>
+      <vfs_file >C:\Users\tomeu\Desktop\Proyectos\Proyectos\src\dpila.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 24">
+      <vfs_project >C:\Users\tomeu\Desktop\Proyectos\Proyectos\practica_1.gpr</vfs_project>
+      <vfs_file >C:\Users\tomeu\Desktop\Proyectos\Proyectos\src\dpila.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 54">
+      <vfs_project >C:\Users\tomeu\Desktop\Proyectos\Proyectos\practica_1.gpr</vfs_project>
+      <vfs_file >C:\Users\tomeu\Desktop\Proyectos\Proyectos\src\dcola.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
